@@ -1,8 +1,0 @@
-[X] Connect To MongoDB
-[X] Crud Operation
-[x] Post : title, description
-[X] Docker File
-[X] Docker Compose
-[X] Docker Ignore
-[X] Git Ignore
-[X] GitHub
